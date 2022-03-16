@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/robertbouma
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://robertbouma.nl
+  * I am robertbouma (https://keybase.io/robertbouma) on keybase.
+  * I have a public key with fingerprint 4DD3 7DCC C622 9A96 BA06  5C4C 3FF2 5305 ED95 9A67
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4dd37dccc6229a96ba065c4c3ff25305ed959a67",
+            "host": "keybase.io",
+            "key_id": "3ff25305ed959a67",
+            "kid": "01017a8b2068cb3b16d0773e70a7d777291817ee865219c24412ee9bd04387b2b7440a",
+            "uid": "6fedfb27f56e9db336efe4a50b709f19",
+            "username": "robertbouma"
+        },
+        "service": {
+            "hostname": "robertbouma.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429096469,
+    "expire_in": 157680000,
+    "prev": "eacdd15261f9758980e45b339566ec5920bcd98958a22f9948224aa4db90e1cd",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIeAnicbZJbSBVBGICPllpGFl3ogkEs9VCcZHd2d2bnUJQPWWHZRZRMQ2Z2Zm3x
+tHvas1qnO6hkVCBSmV20CJPMlAixh+gOGV18yCiCiiIqg6LoYjeqWamnmpdh/v/7
+v+H/+a+NHBJKT5p8LrPxSVFybtLNyzkVoYKsheM3SdRlCSmySSrng5dlO2Xci3m2
+40sRSWNMRcw0TQgAJhhSIkPd1EzVsoCuyjpnWMcEIiksrXHjQYXQUBLnWbYrYuJR
+ajMR/Q9fPpiQFVlBxKBAhoZJVapAJiOkciQTxBBCACuGgjg3oA4UbAJNUwDnmDJZ
+Uw1EAUWaJhOhqxjUQYsziwJk6ZBjRlUVcotrRJcpkrGl4ACMc88ha7mgPZdyz6du
+xVoibQlLIlFpmzyYQtDMv1CWExWCmOf6rulGRW6N78ciQamfiAXsek5L/1hKqe0w
+MUtRUMm9uO06UkQRpOnbgVbRAJYx1CAOS3xDzPZ4qR0QOoKGLE7wDa8USk5MxhQd
+QMXCSDewIXNNF41hHUJu6hjI1GTYwLpBALAw1gwANEI0RrHMFZNJQV/rHFe4hdQn
+ZcIZt8sc4ld4XNpy5VLJ0FBSeig1JTlYh1D68NF/lySzN+1npLdG/Xa7tfBiVe5n
+GJ3wkXTevFH34PPyl7UPnoO9BxNT1I1Xc9Selm/3YktH5Xza383D658nPiyqnbvq
+zdmBk6+XpD1uqo9mvO+/UP71zpnVM9OG7XndPSu/i9yq76w5dMrIvv7sxYX54aNj
+7t6NxPWSvoVj+yM9WW+Lu8bPOT+7eGrKqEZy9UZPS+au3aff/nq3sv/pvmZ8Ob/l
+y/Ep97f2DC9qmL7jZXVf8bQ2PvH74ZmTGo4v2N7u5GZXX8zp3tk4rqNt6sdjixPJ
+m08cSIWPpqmTHkpu+xHQFD070Fc/Yti82VXs1EDejKJXkeaqFe/qfnSSytaCWG/B
+nZXZ2woLl3VkrMr7DXO9LBg=
+=eNXG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robertbouma
+
+==================================================================
